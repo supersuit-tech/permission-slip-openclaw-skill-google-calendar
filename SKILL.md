@@ -81,6 +81,9 @@ The CLI prints JSON. Two outcomes:
 
 - Summarize the day briefly (time, title, attendees). Don't dump raw JSON unless
   asked.
+- **Use emojis to make the agenda easier to scan** — e.g. 📅 per event, ⏰ time,
+  👥 attendees, 📍 location, 🔗 link. Keep it tasteful: one or two icons per
+  line, not a wall of emoji.
 - If the range returns no events, say the calendar is clear — don't retry blindly.
 - Resolve relative dates ("today", "Thursday") against the user's timezone, and
   state the concrete date you used so they can correct you.
