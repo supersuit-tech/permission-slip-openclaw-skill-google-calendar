@@ -43,4 +43,7 @@ is no auto-install. Clone or copy `SKILL.md` into your agent's skills directory.
 
 - [Permission Slip](https://github.com/supersuit-tech/permission-slip)
 - [Google connector docs](https://github.com/supersuit-tech/permission-slip/blob/main/connectors/google/README.md)
-- [permission-slip-openclaw-skill-protonmail](https://github.com/supersuit-tech/permission-slip-openclaw-skill-protonmail) — the Proton Mail companion skill
+- [permission-slip-openclaw-skill-protonmail](https://github.com/supersuit-tech/permission-slip-openclaw-skill-protonmail) — Proton Mail skill
+- [permission-slip-openclaw-skill-gmail](https://github.com/supersuit-tech/permission-slip-openclaw-skill-gmail) — Gmail skill
+- [permission-slip-openclaw-skill-google-drive](https://github.com/supersuit-tech/permission-slip-openclaw-skill-google-drive) — Google Drive skill
+- [permission-slip-openclaw-skill-slack](https://github.com/supersuit-tech/permission-slip-openclaw-skill-slack) — Slack skill
